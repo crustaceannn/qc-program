@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+
+# Lab reports, sequencing data, and generated outputs
+*.html
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.xlsx
+*.csv
+*.zip
